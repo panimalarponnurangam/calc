@@ -159,7 +159,8 @@ for (item of buttons) {
 
 ## HTML VALIDATOR:
 
-![valid](https://github.com/panimalarponnurangam/calc/assets/121490826/22b3a35b-1b2f-4fb4-950e-7d5461f1db32)
+![image](https://github.com/panimalarponnurangam/calc/assets/121490826/6c553b24-e5a4-4357-96b7-3f03969d2573)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
