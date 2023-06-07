@@ -24,7 +24,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-~~~
+```
 calc.html
 <!DOCTYPE html>
 <html lang="en">
@@ -148,18 +148,22 @@ for (item of buttons) {
 
     })
 }
-
+```
 
 
 ## OUTPUT:
-![out7](https://github.com/panimalarponnurangam/calc/assets/121490826/0e2be639-b028-4bcf-b117-1f5e7c2d4f7d)
 
-![out8](https://github.com/panimalarponnurangam/calc/assets/121490826/ad18b1f7-1eac-4ba7-b7d7-9e5ae4c5aec4)
+
+![out7](https://github.com/panimalarponnurangam/calc/assets/121490826/16e3abdd-a6ad-4569-af93-1e18b4dce7f6)
+
+
+
+![out8](https://github.com/panimalarponnurangam/calc/assets/121490826/073dad2d-9794-444f-b1e3-d84946f83acb)
 
 
 ## HTML VALIDATOR:
 
-![image](https://github.com/panimalarponnurangam/calc/assets/121490826/6c553b24-e5a4-4357-96b7-3f03969d2573)
+![valid](https://github.com/panimalarponnurangam/calc/assets/121490826/38840158-84aa-4699-a6cc-78bd9d3ec216)
 
 
 ## RESULT:
