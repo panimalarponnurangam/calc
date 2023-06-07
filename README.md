@@ -152,12 +152,14 @@ for (item of buttons) {
 
 
 ## OUTPUT:
+![out7](https://github.com/panimalarponnurangam/calc/assets/121490826/0e2be639-b028-4bcf-b117-1f5e7c2d4f7d)
 
-![OUTPUT](./out7.png)
-![OUTPUT](./out8.png)
+![out8](https://github.com/panimalarponnurangam/calc/assets/121490826/ad18b1f7-1eac-4ba7-b7d7-9e5ae4c5aec4)
+
 
 ## HTML VALIDATOR:
-![HTML VALIDATOR](./valid.png)
+
+![valid](https://github.com/panimalarponnurangam/calc/assets/121490826/22b3a35b-1b2f-4fb4-950e-7d5461f1db32)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
